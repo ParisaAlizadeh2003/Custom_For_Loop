@@ -1,6 +1,3 @@
-# Custom_For_Loop
----
-
 # **CustomFor - A Simple Custom Iterator**  
 
 ## **Overview**  
